@@ -1,3 +1,6 @@
 streamlit
 huggingface_hub
 requests
+torch
+transformers
+
